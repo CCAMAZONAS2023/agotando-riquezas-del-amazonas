@@ -9,8 +9,10 @@ b.	Se identifican en la base de datos las noticias relevantes para el reto, es d
 c.	Se convierte el archivo a formato .csv para efectuar el procesamiento en el código
 # Prerequisitos
 Máquina:
-vCPU:16
-RAM: 64
+vCPU:16;
+RAM: 64;
+Amazon SageMaker Studio;
+JupyterLab;
 # Clonación
 Previo a la instalación, el usuario deberpa abrir la terminal $ git clone https://github.com/libgit2/libgit2 y correr el comando para clonar los archivos en la máquina local y poder instalar la librería.
 # Instalación
@@ -27,11 +29,11 @@ Para extraer sólo las entidades con nombre que se han identificado como `PER` (
 Spacy on Python
 # Autores
 Equipo "Código Abierto del Amazonas"
-Alejandro Ortiz Tique
-Brayan Steven Martínez Toro
-Maritza Alejandra Aguirre Fuentes
-Mayra Alejandra Luna Ortíz
+Alejandro Ortiz Tique;
+Brayan Steven Martínez Toro;
+Maritza Alejandra Aguirre Fuentes;
+Mayra Alejandra Luna Ortíz.
 # Licencias
-Licencia Open Source
+Licencia de código abierto permisiva - Apache
 # Agradecimientos
 Agradecemos a la Fuerza Aérea Colombiana y a la Universidad de los Andes por la oportunidad de desarrollar este ejercicio en el marco del CodeFestADASTRA2023
